@@ -1,0 +1,7 @@
+.vscode
+bin
+build
+/CMakeFiles
+/CUI/CMakeFiles
+*.bat
+CMakeCache.txt

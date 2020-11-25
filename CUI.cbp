@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CUI"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\CUI\;CMake Files\SFML-2.5.1\;CMake Files\SFML-2.5.1\lib\;CMake Files\SFML-2.5.1\lib\cmake\;CMake Files\SFML-2.5.1\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Coding/__GIT/CPP/CUI-SFML/CUI"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Coding/__C_C++/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding/__GIT/CPP/CUI-SFML/CUI/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Coding/__C_C++/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding/__GIT/CPP/CUI-SFML/CUI/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Coding/__C_C++/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding/__GIT/CPP/CUI-SFML/CUI/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Coding/__C_C++/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;D:/Coding/__GIT/CPP/CUI-SFML/CUI/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Coding/__GIT/CPP/CUI-SFML/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/Coding/__GIT/CPP/CUI-SFML/CUI/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\CUI\"/>
+		</Unit>
+		<Unit filename="D:/Coding/__GIT/CPP/CUI-SFML/SFML-2.5.1/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Coding/__GIT/CPP/CUI-SFML/SFML-2.5.1/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Coding/__GIT/CPP/CUI-SFML/SFML-2.5.1/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Coding/__GIT/CPP/CUI-SFML/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Coding/__GIT/CPP/CUI-SFML/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Coding/__GIT/CPP/CUI-SFML/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
